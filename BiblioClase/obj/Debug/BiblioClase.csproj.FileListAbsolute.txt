@@ -1,0 +1,6 @@
+C:\Users\Metatron\Desktop\Proyectos VS\BiblioClase\BiblioClase\bin\Debug\BiblioClase.dll
+C:\Users\Metatron\Desktop\Proyectos VS\BiblioClase\BiblioClase\bin\Debug\BiblioClase.pdb
+C:\Users\Metatron\Desktop\Proyectos VS\BiblioClase\BiblioClase\obj\Debug\BiblioClase.csproj.AssemblyReference.cache
+C:\Users\Metatron\Desktop\Proyectos VS\BiblioClase\BiblioClase\obj\Debug\BiblioClase.csproj.CoreCompileInputs.cache
+C:\Users\Metatron\Desktop\Proyectos VS\BiblioClase\BiblioClase\obj\Debug\BiblioClase.dll
+C:\Users\Metatron\Desktop\Proyectos VS\BiblioClase\BiblioClase\obj\Debug\BiblioClase.pdb
